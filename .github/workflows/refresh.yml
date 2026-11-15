@@ -1,0 +1,59 @@
+# Redraws the moving parts of the profile page. Everything runs here, in this repository's own Actions.
+name: refresh
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  card-and-lists:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Draw the card, fill in posts and activity
+        run: node scripts/build.mjs
+        env:
+          # The repository's own token sees public contributions. To count private ones too, add a secret
+          # STATS_TOKEN (a token with read:user) and turn on "Include private contributions" on the profile.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          LOGIN: ${{ github.repository_owner }}
+      - name: Commit when something changed
+        run: |
+          git add README.md assets/stats-*.svg
+          if git diff --cached --quiet; then echo "nothing changed"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh the profile card and lists"
+          git push
+
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?color_snake=#c9f53a&color_dots=#1f1f22,#3a4a17,#5e7d1f,#93bd2c,#c9f53a
+            dist/snake-light.svg?color_snake=#1f7a3d&color_dots=#ece8df,#b6d7bf,#77b089,#3f8f57,#1f7a3d
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
