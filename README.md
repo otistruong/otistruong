@@ -38,7 +38,9 @@ I build small, useful systems, with a bias for calm interfaces and practical eng
 **Writing**
 
 <!-- POSTS:START -->
-- Nothing published yet. [otis.zone/blog](https://otis.zone/blog) is where it will be.
+- `2026-11-15` [Five estimation traps that make projects late](https://otis.zone/blogs/estimation-traps)
+- `2026-11-15` [Be a senior before anyone calls you one](https://otis.zone/blogs/junior-to-senior)
+- `2026-11-15` [Technical Debt: what you borrow, you pay back](https://otis.zone/blogs/technical-debt)
 <!-- POSTS:END -->
 
 **On GitHub**
