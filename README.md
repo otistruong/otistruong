@@ -39,8 +39,9 @@ I build small, useful systems, with a bias for calm interfaces and practical eng
 
 <!-- POSTS:START -->
 - `2026-11-15` [Five estimation traps that make projects late](https://otis.zone/blogs/estimation-traps)
-- `2026-11-15` [Be a senior before anyone calls you one](https://otis.zone/blogs/junior-to-senior)
-- `2026-11-15` [Technical Debt: what you borrow, you pay back](https://otis.zone/blogs/technical-debt)
+- `2025-10-10` [Be a senior before anyone calls you one](https://otis.zone/blogs/junior-to-senior)
+- `2025-06-06` [Technical Debt: what you borrow, you pay back](https://otis.zone/blogs/technical-debt)
+- `2024-05-21` [Blameless postmortems: ask what happened, not who did it](https://otis.zone/blogs/blameless-postmortems)
 <!-- POSTS:END -->
 
 **On GitHub**
