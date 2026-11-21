@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 438" width="840" height="438" role="img" aria-label="otistruong on GitHub: 589 contributions in the last year">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 438" width="840" height="438" role="img" aria-label="otistruong on GitHub: 612 contributions in the last year">
 <rect x="0.5" y="0.5" width="839" height="437" rx="10" fill="#121214" stroke="#2a2a2d"/>
 <text x="24" y="38" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#c9f53a">otis@github</text>
 <text x="116" y="38" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#a6a299">~ % gh stats otistruong</text>
 <text x="24" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#7d7a72" letter-spacing="1.4">CONTRIBUTIONS</text>
-<text x="24" y="102" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="-0.5" fill="#e9e5dc">589</text>
+<text x="24" y="102" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="-0.5" fill="#e9e5dc">612</text>
 <text x="24" y="120" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a6a299">in the last year</text>
 <text x="222" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#7d7a72" letter-spacing="1.4">CURRENT STREAK</text>
 <text x="222" y="102" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="-0.5" fill="#e9e5dc">1 day</text>
@@ -36,7 +36,7 @@
 <rect x="54" y="225" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2025-12-05: 0</title></rect>
 <rect x="54" y="240" width="12" height="12" rx="2.5" fill="#93bd2c"><title>2025-12-06: 7</title></rect>
 <text x="69" y="142" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#7d7a72">dec</text>
-<rect x="69" y="150" width="12" height="12" rx="2.5" fill="#93bd2c"><title>2025-12-07: 6</title></rect>
+<rect x="69" y="150" width="12" height="12" rx="2.5" fill="#5e7d1f"><title>2025-12-07: 6</title></rect>
 <rect x="69" y="165" width="12" height="12" rx="2.5" fill="#93bd2c"><title>2025-12-08: 13</title></rect>
 <rect x="69" y="180" width="12" height="12" rx="2.5" fill="#3a4a17"><title>2025-12-09: 1</title></rect>
 <rect x="69" y="195" width="12" height="12" rx="2.5" fill="#93bd2c"><title>2025-12-10: 15</title></rect>
@@ -159,7 +159,7 @@
 <rect x="309" y="225" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-04-03: 0</title></rect>
 <rect x="309" y="240" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-04-04: 0</title></rect>
 <text x="324" y="142" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#7d7a72">apr</text>
-<rect x="324" y="150" width="12" height="12" rx="2.5" fill="#93bd2c"><title>2026-04-05: 6</title></rect>
+<rect x="324" y="150" width="12" height="12" rx="2.5" fill="#5e7d1f"><title>2026-04-05: 6</title></rect>
 <rect x="324" y="165" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-04-06: 0</title></rect>
 <rect x="324" y="180" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-04-07: 0</title></rect>
 <rect x="324" y="195" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-04-08: 0</title></rect>
@@ -188,15 +188,15 @@
 <rect x="369" y="225" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-05-01: 0</title></rect>
 <rect x="369" y="240" width="12" height="12" rx="2.5" fill="#c9f53a"><title>2026-05-02: 90</title></rect>
 <text x="384" y="142" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#7d7a72">may</text>
-<rect x="384" y="150" width="12" height="12" rx="2.5" fill="#c9f53a"><title>2026-05-03: 17</title></rect>
+<rect x="384" y="150" width="12" height="12" rx="2.5" fill="#93bd2c"><title>2026-05-03: 17</title></rect>
 <rect x="384" y="165" width="12" height="12" rx="2.5" fill="#93bd2c"><title>2026-05-04: 8</title></rect>
-<rect x="384" y="180" width="12" height="12" rx="2.5" fill="#5e7d1f"><title>2026-05-05: 2</title></rect>
+<rect x="384" y="180" width="12" height="12" rx="2.5" fill="#3a4a17"><title>2026-05-05: 2</title></rect>
 <rect x="384" y="195" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-05-06: 0</title></rect>
 <rect x="384" y="210" width="12" height="12" rx="2.5" fill="#5e7d1f"><title>2026-05-07: 4</title></rect>
-<rect x="384" y="225" width="12" height="12" rx="2.5" fill="#93bd2c"><title>2026-05-08: 6</title></rect>
+<rect x="384" y="225" width="12" height="12" rx="2.5" fill="#5e7d1f"><title>2026-05-08: 6</title></rect>
 <rect x="384" y="240" width="12" height="12" rx="2.5" fill="#93bd2c"><title>2026-05-09: 14</title></rect>
 <rect x="399" y="150" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-05-10: 0</title></rect>
-<rect x="399" y="165" width="12" height="12" rx="2.5" fill="#5e7d1f"><title>2026-05-11: 2</title></rect>
+<rect x="399" y="165" width="12" height="12" rx="2.5" fill="#3a4a17"><title>2026-05-11: 2</title></rect>
 <rect x="399" y="180" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-05-12: 0</title></rect>
 <rect x="399" y="195" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-05-13: 0</title></rect>
 <rect x="399" y="210" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-05-14: 0</title></rect>
@@ -205,7 +205,7 @@
 <rect x="414" y="150" width="12" height="12" rx="2.5" fill="#c9f53a"><title>2026-05-17: 25</title></rect>
 <rect x="414" y="165" width="12" height="12" rx="2.5" fill="#5e7d1f"><title>2026-05-18: 3</title></rect>
 <rect x="414" y="180" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-05-19: 0</title></rect>
-<rect x="414" y="195" width="12" height="12" rx="2.5" fill="#5e7d1f"><title>2026-05-20: 2</title></rect>
+<rect x="414" y="195" width="12" height="12" rx="2.5" fill="#3a4a17"><title>2026-05-20: 2</title></rect>
 <rect x="414" y="210" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-05-21: 0</title></rect>
 <rect x="414" y="225" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-05-22: 0</title></rect>
 <rect x="414" y="240" width="12" height="12" rx="2.5" fill="#3a4a17"><title>2026-05-23: 1</title></rect>
@@ -396,7 +396,7 @@
 <rect x="804" y="195" width="12" height="12" rx="2.5" fill="#c9f53a"><title>2026-11-18: 50</title></rect>
 <rect x="804" y="210" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-11-19: 0</title></rect>
 <rect x="804" y="225" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-11-20: 0</title></rect>
-<rect x="804" y="240" width="12" height="12" rx="2.5" fill="#3a4a17"><title>2026-11-21: 1</title></rect>
+<rect x="804" y="240" width="12" height="12" rx="2.5" fill="#c9f53a"><title>2026-11-21: 24</title></rect>
 <text x="680" y="274" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#7d7a72">less</text>
 <rect x="714" y="265" width="12" height="12" rx="2.5" fill="#1f1f22"/>
 <rect x="729" y="265" width="12" height="12" rx="2.5" fill="#3a4a17"/>
