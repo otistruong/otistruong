@@ -6,7 +6,7 @@
 <text x="24" y="102" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="-0.5" fill="#e9e5dc">616</text>
 <text x="24" y="120" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a6a299">in the last year</text>
 <text x="222" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#7d7a72" letter-spacing="1.4">CURRENT STREAK</text>
-<text x="222" y="102" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="-0.5" fill="#e9e5dc">2 days</text>
+<text x="222" y="102" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="-0.5" fill="#e9e5dc">0 days</text>
 <text x="222" y="120" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a6a299">longest 6</text>
 <text x="420" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#7d7a72" letter-spacing="1.4">PUBLIC REPOS</text>
 <text x="420" y="102" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="-0.5" fill="#e9e5dc">25</text>
@@ -392,6 +392,7 @@
 <rect x="789" y="240" width="12" height="12" rx="2.5" fill="#c9f53a"><title>2026-11-21: 24</title></rect>
 <rect x="804" y="150" width="12" height="12" rx="2.5" fill="#5e7d1f"><title>2026-11-22: 4</title></rect>
 <rect x="804" y="165" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-11-23: 0</title></rect>
+<rect x="804" y="180" width="12" height="12" rx="2.5" fill="#1f1f22"><title>2026-11-24: 0</title></rect>
 <text x="680" y="274" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#7d7a72">less</text>
 <rect x="714" y="265" width="12" height="12" rx="2.5" fill="#1f1f22"/>
 <rect x="729" y="265" width="12" height="12" rx="2.5" fill="#3a4a17"/>
@@ -420,5 +421,5 @@
 <rect x="144" y="406" width="616" height="4" rx="2" fill="#1f1f22"/>
 <rect x="144" y="406" width="4.0" height="4" rx="2" fill="#c9f53a"/>
 <text x="816" y="412" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a6a299" text-anchor="end">0.1%</text>
-<text x="816" y="38" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#7d7a72" text-anchor="end">updated 2026-11-23</text>
+<text x="816" y="38" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#7d7a72" text-anchor="end">updated 2026-11-24</text>
 </svg>
